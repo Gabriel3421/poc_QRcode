@@ -2,7 +2,7 @@
 
 O projeto consistem em montar o QRcode do que for digitado no campo de input.
 
-![WEB](https://github.com/Gabriel3421/Desafio_Cadmus/blob/master/readmeAssets/web.png)
+![WEB](https://github.com/Gabriel3421/poc_QRcode/blob/master/readmeAssets/qrcode.png)
 
 ## Getting Started
 
